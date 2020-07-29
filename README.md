@@ -36,4 +36,4 @@ Initiate puperneth to generate block
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Wallet%20Transaction.PNG)
 
 ### Successful Transaction
-![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Successful%20Transaction.PNG)
+![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Success%20Transaction.PNG)
