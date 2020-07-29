@@ -17,3 +17,4 @@ Initiate puperneth to generate block
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Creating%20Nodes.PNG)
 
 ### Initialzing Nodes Using Genesis Block
+![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Initializing%20Nodes.PNG)
