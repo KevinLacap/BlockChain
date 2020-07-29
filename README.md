@@ -1,14 +1,14 @@
-# BlockChain
+## BlockChain
 
-ZBank Assaignment
+## ZBank Assaignment
 
 Custom BlockChain Test Net
 Initiate puperneth to generate block
-Network Name = Fintech
+### Network Name = Fintech
 ![](https://github.com/KevinLacap/BlockChain/blob/master/Capture.PNG)
 
-###MyCrypto Wallet Chain ID -333
+### MyCrypto Wallet Chain ID -333
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/ChainID.PNG)
 
-###Genesis Configuration
+### Genesis Configuration
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Genesis%20Configuration.PNG)
