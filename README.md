@@ -24,3 +24,5 @@ Initiate puperneth to generate block
 
 ### Node2 Boost Nodes
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Node2%20BoostMode.PNG)
+
+## **Crypto Wallet** 
