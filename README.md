@@ -15,3 +15,5 @@ Initiate puperneth to generate block
 
 ### Creating Nodes - Public Address of the key and the path for the Secret Key.
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Creating%20Nodes.PNG)
+
+### Initialzing Nodes Using Genesis Block
