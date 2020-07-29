@@ -11,3 +11,4 @@ Network Name = Fintech
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/ChainID.PNG)
 
 ###Genesis Configuration
+![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Genesis%20Configuration.PNG)
