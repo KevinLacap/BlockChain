@@ -27,3 +27,4 @@ Initiate puperneth to generate block
 
 ## **Crypto Wallet** 
 ### Open Crypto Wallet to configure TestNet.
+![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Crypto%20Wallet.PNG)
