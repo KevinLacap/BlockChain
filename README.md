@@ -23,3 +23,4 @@ Initiate puperneth to generate block
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Node1%20MinerThread.PNG)
 
 ### Node2 Boost Nodes
+![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Node2%20BoostMode.PNG)
