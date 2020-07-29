@@ -26,3 +26,4 @@ Initiate puperneth to generate block
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Node2%20BoostMode.PNG)
 
 ## **Crypto Wallet** 
+### Open Crypto Wallet to configure TestNet.
