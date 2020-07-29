@@ -21,3 +21,5 @@ Initiate puperneth to generate block
 
 ### Output Node1 into mining mode with the following command ./geth --datadir node1 --mine --minerthreads 1
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Node1%20MinerThread.PNG)
+
+### Node2 Boost Nodes
