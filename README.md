@@ -29,5 +29,5 @@ Initiate puperneth to generate block
 ### Open Crypto Wallet to configure TestNet.
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Crypto%20Wallet.PNG)
 
-### Custom network using same parameters used gitbash. chain id 33, Prefunded with ETH.
+### Custom network using same parameters used gitbash. chain id 333, Prefunded with ETH.
 ![](https://github.com/KevinLacap/BlockChain/blob/master/screenshots/Wallet%20Transaction.PNG)
